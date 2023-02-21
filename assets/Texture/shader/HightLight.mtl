@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.Material",
+  "_name": "HightLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "8d8c540c-a44a-40c6-8257-f3e7ed6dd0ce"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": false
+      },
+      "props": {
+        "texture": {
+          "__uuid__": "119aacf6-2fa2-4d4a-be25-54295a32c8ea"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2b835758-0dbf-4a73-a47b-b345ad1110d6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "Armature_stand_04": {
+      "ver": "1.0.6",
+      "uuid": "63630abf-d50a-4d04-9d4a-979cb3ee4a54",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2b835758-0dbf-4a73-a47b-b345ad1110d6",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "rawWidth": 150,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

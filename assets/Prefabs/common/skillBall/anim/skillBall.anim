@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "skillBall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.875,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "skillball01_light": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.226
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0.95
+            },
+            {
+              "frame": 1.875,
+              "value": 1.226
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1.226
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0.95
+            },
+            {
+              "frame": 1.875,
+              "value": 1.226
+            }
+          ]
+        }
+      },
+      "sb_eff_0": {
+        "props": {
+          "anchorY": [
+            {
+              "frame": 0.041666666666666664,
+              "value": 0.5
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0.45
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0.5
+            }
+          ]
+        }
+      },
+      "skillball01": {
+        "props": {
+          "anchorY": [
+            {
+              "frame": 0.041666666666666664,
+              "value": 0.5
+            },
+            {
+              "frame": 0.875,
+              "value": 0.45
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0.5
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

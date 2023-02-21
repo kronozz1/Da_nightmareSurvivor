@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "monster01_hurt",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b2736d01-bab7-459c-9036-c46cbcb18d1c"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "02d55e32-88f4-4fa1-9d1a-1b4e0c2c6e4b"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "b8cfa48f-f16e-49b5-9d7d-88df6270eba7"
+            }
+          },
+          {
+            "frame": 0.20833333333333334,
+            "value": {
+              "__uuid__": "41b96367-f848-4533-8ab5-79f576078cab"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.4166666666666667,
+      "func": "AnimEnd",
+      "params": []
+    }
+  ]
+}

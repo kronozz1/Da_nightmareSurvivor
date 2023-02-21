@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dash_hit_thunder_effect_top",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ec83929d-01a9-4691-adab-c65639ab2def"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "4c564ab1-f974-429f-ad7b-44657a0009b5"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "c38a6ef6-ed3e-4d1d-b0ba-0a21394b73cf"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8e588423-bb96-4803-8da9-736b59a6c5c8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
